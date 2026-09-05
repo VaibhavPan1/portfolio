@@ -1,6 +1,6 @@
 export const portfolioData = {
   personal: {
-    name: "Vaibhav Kumar Pandey",
+    name: "Vaibhav Kr. Pandey",
     role: "Backend & Full Stack Software Engineer",
     currentCompany: "Cognizant",
     currentPosition: "Jr. Software Engineer",
